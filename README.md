@@ -26,3 +26,16 @@
     </ul>
   </p>
 </details>
+
+<hr>
+<details> 
+  <summary><b>Task 3:  Exploratory Data AnalysisL</b></summary>
+  <p>
+    <ul>
+      <li> To find out the weak areas where a business manager could work to make more profit in the sales & to identify business problems that could arise by exploring the data.</li>
+      <li> Language : Python3 </li>
+      <li> Dataset <a href="https://bit.ly/3i4rbWl">https://bit.ly/3i4rbWl</a></li>
+      <li> Code : <a href="https://github.com/Candida18/Data-Science-Business-Analytics/blob/main/Data_Science_%26_Business_Analytics_Task_3.ipynb"> Click Here </a></li>
+    </ul>
+  </p>
+</details>
