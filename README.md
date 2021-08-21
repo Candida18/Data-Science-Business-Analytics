@@ -29,7 +29,7 @@
 
 <hr>
 <details> 
-  <summary><b>Task 3:  Exploratory Data AnalysisL</b></summary>
+  <summary><b>Task 3:  Exploratory Data Analysis</b></summary>
   <p>
     <ul>
       <li> To find out the weak areas where a business manager could work to make more profit in the sales & to identify business problems that could arise by exploring the data.</li>
